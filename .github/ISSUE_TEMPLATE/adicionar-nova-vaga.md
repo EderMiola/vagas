@@ -1,7 +1,7 @@
 ---
-name: Adicionar nova vaga
+name: Frontend Developer 
 about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[Vaga remota] Front-end Developer na Ewally"
 
 ---
 
@@ -25,78 +25,45 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 Caso a vaga for remoto durante a pandemia deixar a linha abaixo
 ==================================================
 -->
-> Vaga Remota durante a pandemia
 
-## Nossa empresa
+## Ewally
 
-Exemplo: Aqui na Corporação ACME somos líderes em...
+Somos agentes de transformação no setor de serviços financeiros. Oferecemos soluções inovadoras de forma ágil, prático e segura.
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Atuará no desenvolvimento de novas features e manutenção das já existentes em nosso sistema, passando por APIs, integrações com parceiros do setor financeiro e ferramentas internas. Deverá projetar e implementar recursos e componentes de backend. Trabalhará em sistemas altamente escaláveis que devem ser rápidos e seguros. Interagir com a equipe de produto para entender melhor os requisitos. Estudar e aprender novas tecnologias para melhorar nossos sistemas e processos.
 
 ## Local
 
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Remoto
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+React.js
+Metodologias ágeis
 
 **Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
-
-**Diferenciais:**
-- projetos opensource
+Arquitetura de micros serviços e Serverless
+Nuvem AWS
+Bancos de dados não-relacionais (DynamoDB)
+Bancos de dados relacionais (MySQL)
+TDD
 
 ## Benefícios
-
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
-
-**Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+- Plano de saúde Sulamerica
+- Férias Remuneradas
 
 ## Contratação
-
-PJ a combinar
+PJ
 
 ## Como se candidatar
-
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
-
-## Tempo médio de feedbacks
-
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
-
-## Labels
-<!-- retire os labels que não fazem sentido à vaga -->
-
-#### Alocação
-- Alocado
-- Remoto
-
-#### Regime
-- CLT
-- Estágio
-- Freela
-- PJ
+https://ewally.solides.jobs/vacancies/96640 
 
 #### Nível
 - Júnior
 - Pleno
 - Sênior
-- Especialista
 
 
